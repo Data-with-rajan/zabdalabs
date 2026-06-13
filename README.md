@@ -506,7 +506,7 @@ footer .wrap{display:flex;justify-content:space-between;gap:14px;flex-wrap:wrap}
     <h2>Verify it yourself.</h2>
     <p>Codebases are private while patent filings are active — but every status stamp on this page can be demonstrated live: test runs, deployments, architecture walk-throughs. If you're hiring, piloting, or evaluating, ask for the demo that matters to you.</p>
     <div class="contact-row">
-      <a class="btn btn-solid" href="mailto:rengaraj.sai@gmail.com">rengaraj.sai@gmail.com</a>
+      <a class="btn btn-solid" href="mailto:rajanprakruti@gmail.com">rajanprakruti@gmail.com</a>
       <a class="btn btn-ghost" href="https://github.com/Data-with-rajan">GitHub</a>
       <a class="btn btn-ghost" href="tel:+918122495981">+91 81224 95981</a>
     </div>
